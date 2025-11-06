@@ -43,10 +43,10 @@ All circuits were powered under **asymmetrical supply (0–5 V)** and implemente
 <img width="1614" height="1167" alt="image" src="https://github.com/user-attachments/assets/efc14749-cef0-4aa1-a1c3-55e16ae1bc99" />
 
 ### Printed PCB (Before Soldering)  
-> ![Bare PCB Placeholder](./images/pcb_bare.png)
+![WhatsApp Image 2025-11-07 à 00 43 34_8c52c60e](https://github.com/user-attachments/assets/541db35e-a48c-4bca-b340-a26b90c66a8d)
 
 ### Assembled Board (After Soldering)  
-> ![Assembled PCB Placeholder](./images/pcb_soldered.png)
+![WhatsApp Image 2025-11-07 à 00 43 34_da2ad6b6](https://github.com/user-attachments/assets/af9899d5-cdaa-4f01-a348-e2e05bf252b0)
 
 ---
 
