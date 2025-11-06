@@ -37,7 +37,7 @@ All circuits were powered under **asymmetrical supply (0–5 V)** and implemente
 ## 📷 Project Images
 
 ### 🖋️ Schematic Diagram  
-<img width="2395" height="923" alt="image" src="https://github.com/user-attachments/assets/c28bcc44-e3f5-4aef-b42a-d0b8b2d65c52" />
+<img width="2436" height="975" alt="image" src="https://github.com/user-attachments/assets/a3b9fa2c-7fcc-4c07-b276-831eb76988c3" />
 
 ### ⚡ PCB Layout (Design in KiCad)  
 > ![PCB Layout Placeholder](./images/pcb_design.png)
