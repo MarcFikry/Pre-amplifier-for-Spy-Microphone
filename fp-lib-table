@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "LIB_TR_PHELMA")(type "KiCad")(uri "${KIPRJMOD}/../Librairies/02-Empreintes/LIB_TR_PHELMA.pretty")(options "")(descr ""))
+)
