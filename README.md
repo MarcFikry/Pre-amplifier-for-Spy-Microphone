@@ -4,7 +4,7 @@
 This project was carried out as part of the **1A Bureau d'Étude d'Électronique (Electronics Design Project)** at **Grenoble INP – Phelma**, during the first semester of the **Physics, Electronics and Telecommunications (PET)** engineering program.
 
 The objective was to design and implement a **pre-amplifier for an electret microphone**, which could be later connected to an FM transmitter.  
-I completed **Tiroir 2**, which includes the following functional blocks:
+Which includes the following functional blocks:
 - Microphone biasing and pre-amplification
 - Adjustable volume control
 - Sound detection via a LED indicator
