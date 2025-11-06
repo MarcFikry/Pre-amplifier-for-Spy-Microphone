@@ -1,6 +1,6 @@
-# 🎙️ Pre-amplifier for Spy Microphone 
+# Pre-amplifier for Spy Microphone 
 
-## 📘 Project Overview
+## Project Overview
 This project was carried out as part of the **1A Bureau d'Étude d'Électronique (Electronics Design Project)** at **Grenoble INP – Phelma**, during the first semester of the **Physics, Electronics and Telecommunications (PET)** engineering program.
 
 The objective was to design and implement a **pre-amplifier for an electret microphone**, which could be later connected to an FM transmitter.  
@@ -13,7 +13,7 @@ All circuits were powered under **asymmetrical supply (0–5 V)** and implemente
 
 ---
 
-## ⚙️ Features (Tiroir 2)
+## Features (Tiroir 2)
 - **Electret Microphone Biasing** — converts the small current variations from the microphone into voltage.  
 - **Variable Gain Amplifier** — amplifies weak audio signals with adjustable sensitivity.  
 - **Volume Control** — allows amplitude adjustment before the output stage to avoid distortion.  
@@ -22,7 +22,7 @@ All circuits were powered under **asymmetrical supply (0–5 V)** and implemente
 
 ---
 
-## 🧠 Design and Implementation
+## Design and Implementation
 - Circuit **designed and simulated in KiCad**
 - **Component sizing** based on theoretical transfer functions and Bode plots  
 - **PCB routing** performed in KiCad, ensuring clean signal paths and proper grounding  
@@ -34,23 +34,23 @@ All circuits were powered under **asymmetrical supply (0–5 V)** and implemente
 
 ---
 
-## 📷 Project Images
+## Project Images
 
-### 🖋️ Schematic Diagram  
+### Schematic Diagram  
 <img width="2436" height="975" alt="image" src="https://github.com/user-attachments/assets/a3b9fa2c-7fcc-4c07-b276-831eb76988c3" />
 
-### ⚡ PCB Layout (Design in KiCad)  
+### PCB Layout (Design in KiCad)  
 <img width="1614" height="1167" alt="image" src="https://github.com/user-attachments/assets/efc14749-cef0-4aa1-a1c3-55e16ae1bc99" />
 
-### 🔩 Printed PCB (Before Soldering)  
+### Printed PCB (Before Soldering)  
 > ![Bare PCB Placeholder](./images/pcb_bare.png)
 
-### 🔧 Assembled Board (After Soldering)  
+### Assembled Board (After Soldering)  
 > ![Assembled PCB Placeholder](./images/pcb_soldered.png)
 
 ---
 
-## 🧩 Components Used
+## Components Used
 | Component | Description | Note |
 |------------|--------------|------|
 | MCP6002 | Dual Operational Amplifier | 0–5 V single-supply compatible |
@@ -61,7 +61,7 @@ All circuits were powered under **asymmetrical supply (0–5 V)** and implemente
 
 ---
 
-## 📊 Results
+## Results
 - Clean and stable amplification of the audio signal  
 - Adjustable output amplitude via volume potentiometer  
 - Reliable LED indication of detected sound  
@@ -69,14 +69,14 @@ All circuits were powered under **asymmetrical supply (0–5 V)** and implemente
 
 ---
 
-## 🧰 Tools and Environment
+## Tools and Environment
 - **Software:** KiCad, LTSpice, Oscilloscope interface tools  
 - **Hardware:** Breadboard, 0–5 V power supply, Function generator  
 - **Programming Language:** None (pure analog circuit)  
 
 ---
 
-## 📚 Acknowledgments
+## Acknowledgments
 Project supervised by:
 - **Nicolas Ruty**
 - **Fanny Poinsotte**
@@ -86,7 +86,7 @@ Grenoble INP – Phelma, 1A PET (Tronc Commun)
 
 ---
 
-## 🧾 License
+## License
 This project is part of an academic exercise at Grenoble INP – Phelma.  
 You are free to use the design for educational purposes with proper credit.
 
