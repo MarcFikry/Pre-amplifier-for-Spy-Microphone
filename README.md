@@ -89,7 +89,3 @@ Grenoble INP – Phelma, 1A PET (Tronc Commun)
 ## License
 This project is part of an academic exercise at Grenoble INP – Phelma.  
 You are free to use the design for educational purposes with proper credit.
-
----
-
-© 2024 Marc Fikry
