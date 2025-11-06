@@ -13,7 +13,7 @@ All circuits were powered under **asymmetrical supply (0–5 V)** and implemente
 
 ---
 
-## Features (Tiroir 2)
+## Features
 - **Electret Microphone Biasing** — converts the small current variations from the microphone into voltage.  
 - **Variable Gain Amplifier** — amplifies weak audio signals with adjustable sensitivity.  
 - **Volume Control** — allows amplitude adjustment before the output stage to avoid distortion.  
