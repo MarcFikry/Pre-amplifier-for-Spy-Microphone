@@ -40,7 +40,7 @@ All circuits were powered under **asymmetrical supply (0–5 V)** and implemente
 <img width="2436" height="975" alt="image" src="https://github.com/user-attachments/assets/a3b9fa2c-7fcc-4c07-b276-831eb76988c3" />
 
 ### ⚡ PCB Layout (Design in KiCad)  
-> ![PCB Layout Placeholder](./images/pcb_design.png)
+<img width="1614" height="1167" alt="image" src="https://github.com/user-attachments/assets/efc14749-cef0-4aa1-a1c3-55e16ae1bc99" />
 
 ### 🔩 Printed PCB (Before Soldering)  
 > ![Bare PCB Placeholder](./images/pcb_bare.png)
