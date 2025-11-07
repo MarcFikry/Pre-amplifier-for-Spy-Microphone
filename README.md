@@ -70,9 +70,8 @@ All circuits were powered under **asymmetrical supply (0–5 V)** and implemente
 ---
 
 ## Tools and Environment
-- **Software:** KiCad, LTSpice, Oscilloscope interface tools  
-- **Hardware:** Breadboard, 0–5 V power supply, Function generator  
-- **Programming Language:** None (pure analog circuit)  
+- **Software:** KiCad, Oscilloscope interface tools  
+- **Hardware:** Breadboard, 0–5 V power supply, Function generator   
 
 ---
 
@@ -85,7 +84,3 @@ Project supervised by:
 Grenoble INP – Phelma, 1A PET (Tronc Commun)
 
 ---
-
-## License
-This project is part of an academic exercise at Grenoble INP – Phelma.  
-You are free to use the design for educational purposes with proper credit.
